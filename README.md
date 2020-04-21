@@ -9,3 +9,5 @@ A PHPBot-based Sublime Text Plugin, This package relies heavily on [PHPBot](http
 1. Ctrl+Shift+P (MacOS: ⇧+⌘+P) -> "Package Control: Add Repository" -> https://github.com/thinkcn/phpbot_py/tree/master
 
 2. Then, Ctrl+Shift+P -> "Package Control: Install Package" -> phpbot_py
+
+3. Menu -> Preferences -> Package Settings -> Settings – User : config phpbot path
